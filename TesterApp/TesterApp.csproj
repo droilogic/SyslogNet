@@ -3,7 +3,7 @@
     <AssemblyName>TesterApp</AssemblyName>
     <OutputType>Exe</OutputType>
     <RootNamespace>TesterApp</RootNamespace>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
     <DebugType>full</DebugType>
